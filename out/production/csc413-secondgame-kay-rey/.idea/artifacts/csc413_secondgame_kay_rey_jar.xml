@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc413-secondgame-kay-rey:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc413_secondgame_kay_rey_jar</output-path>
+    <root id="archive" name="csc413-secondgame-kay-rey.jar">
+      <element id="module-output" name="csc413-secondgame-kay-rey" />
+    </root>
+  </artifact>
+</component>
